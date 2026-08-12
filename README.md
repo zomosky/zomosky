@@ -22,9 +22,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
-  <img alt="zomosky@github — neofetch" src="assets/terminal-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg?v=2">
+  <img alt="zomosky@github — neofetch" src="assets/terminal-light.svg?v=2" width="100%">
 </picture>
 
 </div>
