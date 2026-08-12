@@ -252,16 +252,15 @@ GFS 专用切片下载器。HTTP Range 变量级切片把数 GB 预报文件压�
 
 ```json
 {
-  "email":    "zomoskynuist@gmail.com",
   "github":   "https://github.com/zomosky",
   "location": "Chengdu, China (UTC+8)",
-  "response": "slow, but always read"
+  "response": "slow, but always read",
+  "contact":  "open an issue, or use the address on my GitHub profile"
 }
 ```
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zomoskynuist@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zomosky)
 
 <sub>💭 回复可能会慢一些，但每条都会看。</sub>
