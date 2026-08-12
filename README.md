@@ -207,14 +207,6 @@ GFS 专用切片下载器。HTTP Range 变量级切片把数 GB 预报文件压�
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zomosky&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0b0f14&title_color=39d3bb&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400">
-  <img src="https://github-readme-stats.vercel.app/api?username=zomosky&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0f9b8e&icon_color=0969da&cache_seconds=86400" height="165" alt="GitHub Stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zomosky&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0b0f14&title_color=39d3bb&text_color=c9d1d9&cache_seconds=86400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zomosky&layout=compact&langs_count=8&hide_border=true&title_color=0f9b8e&cache_seconds=86400" height="165" alt="Top Languages">
-</picture>
 
 <br/><br/>
 
