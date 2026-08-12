@@ -24,10 +24,11 @@ jobs:
           user: zomosky
           filename: assets/metrics.svg
           template: classic
-          base: header, repositories
+          base: header
           config_timezone: Asia/Shanghai
           committer_branch: main
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_indepth: no
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
