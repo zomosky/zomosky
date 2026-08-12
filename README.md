@@ -207,6 +207,10 @@ GFS 专用切片下载器。HTTP Range 变量级切片把数 GB 预报文件压�
 
 <div align="center">
 
+<img src="assets/metrics.svg" alt="GitHub metrics" width="100%">
+
+<br/>
+
 
 <br/><br/>
 
