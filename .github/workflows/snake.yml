@@ -15,15 +15,17 @@ jobs:
     permissions:
       contents: write
     steps:
+      # svg-only 是 JS 版 action；docker 版（Platane/snk@v3）拉 GitHub GraphQL 时
+      # 在部分网络环境下会报 "self signed certificate"。
       - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        id: snake-gif
+        uses: Platane/snk/svg-only@v3
+        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
